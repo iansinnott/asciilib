@@ -1,9 +1,11 @@
 {
   "name": "asciilib",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
+  "author": "Ian Sinnott <ian@iansinnott.com> (https://www.iansinnott.com)",
   "license": "MIT",
   "scripts": {
+    "bump:patch": "npm version patch -m \"v%s\"",
     "test": "ava"
   },
   "dependencies": {
