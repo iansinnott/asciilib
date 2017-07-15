@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "kaomojilib": "^1.1.4",
     "ramda": "^0.24.1",
     "rxjs": "^5.4.2",
     "yargs": "^8.0.2"
