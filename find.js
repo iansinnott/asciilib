@@ -2,9 +2,12 @@ const toPairs = require('ramda/src/toPairs');
 const pipe = require('ramda/src/pipe');
 const prop = require('ramda/src/prop');
 const anyPass = require('ramda/src/anyPass');
+const last = require('ramda/src/last');
 const { Observable } = require('rxjs/Observable');
 require('rxjs/add/observable/from');
 require('rxjs/add/operator/filter');
+require('rxjs/add/operator/map');
+require('rxjs/add/operator/do');
 require('rxjs/add/operator/toArray');
 require('rxjs/add/operator/toPromise');
 
@@ -26,12 +29,13 @@ const categoryMatches = searchTerm => x => {
   return getCategory(x).includes(searchTerm);
 };
 
-const find = searchTerm => {
-  return lib.filter(anyPass([
-    nameMatches(searchTerm),
-    keywordsMatch(searchTerm),
-    categoryMatches(searchTerm),
-  ]));
-};
+const find = searchTerm =>
+  lib
+    .filter(anyPass([
+      nameMatches(searchTerm),
+      keywordsMatch(searchTerm),
+      categoryMatches(searchTerm),
+    ]))
+    .map(last);
 
 module.exports = find;
