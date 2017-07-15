@@ -1524,7 +1524,8 @@
       "unhappy"
     ],
     "entry": "੨( ･᷄ ︵･᷅ )ｼ",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "crying"
   },
   "love": {
     "name": "Love",
@@ -1589,7 +1590,8 @@
       "punch you"
     ],
     "entry": "(o￣∇￣)=◯)`ν゜)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "punch"
   },
   "meditation": {
     "name": "Meditation",
@@ -1773,7 +1775,8 @@
       "relax"
     ],
     "entry": "((ヽ(๑╹◡╹๑)ﾉ))♬",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "singing"
   },
   "guitar": {
     "name": "Guitar",
@@ -1905,7 +1908,8 @@
       "joy"
     ],
     "entry": "o(≧∇≦o)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "exciting"
   },
   "exciting_right": {
     "keywords": [
@@ -1915,7 +1919,8 @@
       "happy"
     ],
     "entry": "(/^▽^)/",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "exciting right"
   },
   "love_eyes": {
     "keywords": [
@@ -1925,7 +1930,8 @@
       "smile"
     ],
     "entry": "(✿ ♥‿♥)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "love eyes"
   },
   "love_left": {
     "keywords": [
@@ -1935,7 +1941,8 @@
       "smile"
     ],
     "entry": "♥(ˆ⌣ˆԅ)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "love left"
   },
   "delicious": {
     "keywords": [
@@ -1945,7 +1952,8 @@
       "eat"
     ],
     "entry": "(*´ڡ`●)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "delicious"
   },
   "sad": {
     "keywords": [
@@ -1954,7 +1962,8 @@
       "sick"
     ],
     "entry": "(っ- ‸ – ς)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "sad"
   },
   "tears": {
     "keywords": [
@@ -1964,7 +1973,8 @@
       "unhappy"
     ],
     "entry": "꒰๑•̥﹏•̥๑꒱",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "tears"
   },
   "cat_star": {
     "keywords": [
@@ -1973,7 +1983,8 @@
       "pet"
     ],
     "entry": "(=ↀωↀ=)✧",
-    "category": "animal"
+    "category": "animal",
+    "name": "cat star"
   },
   "cat_shock": {
     "keywords": [
@@ -1983,7 +1994,8 @@
       "angry"
     ],
     "entry": "(ↀДↀ)⁼³₌₃",
-    "category": "animal"
+    "category": "animal",
+    "name": "cat shock"
   },
   "smile_with_heart": {
     "keywords": [
@@ -1994,7 +2006,8 @@
       "right heart"
     ],
     "entry": "(*˘︶˘*).｡.:*♡",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "smile with heart"
   },
   "happy_love": {
     "keywords": [
@@ -2004,7 +2017,8 @@
       "right heart"
     ],
     "entry": "(≧◡≦) ♡",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "happy love"
   },
   "kiss_love": {
     "keywords": [
@@ -2015,7 +2029,8 @@
       "chu"
     ],
     "entry": "σ(≧ε≦σ) ♡",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "kiss love"
   },
   "kiss_star": {
     "keywords": [
@@ -2026,7 +2041,8 @@
       "shy"
     ],
     "entry": "☆⌒ヽ(*'､^*)chu",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "kiss star"
   },
   "shy_blush": {
     "keywords": [
@@ -2035,7 +2051,8 @@
       "love"
     ],
     "entry": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "shy blush"
   },
   "sympathy": {
     "keywords": [
@@ -2045,7 +2062,8 @@
       "compassion"
     ],
     "entry": "(ノ_<。)ヾ(´▽｀)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "sympathy"
   },
   "square_mouth_afraid": {
     "keywords": [
@@ -2055,7 +2073,8 @@
       "hands up"
     ],
     "entry": "＼(º □ º l|l)/",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "square mouth afraid"
   },
   "hands_up_indifference": {
     "keywords": [
@@ -2065,7 +2084,8 @@
       "disdain"
     ],
     "entry": "┐(￣∀￣)┌",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "hands up indifference"
   },
   "confusion_@eyes": {
     "keywords": [
@@ -2075,7 +2095,8 @@
       "question"
     ],
     "entry": "(＠_＠)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "confusion @eyes"
   },
   "surprise_round_eyes": {
     "keywords": [
@@ -2084,7 +2105,8 @@
       "curious"
     ],
     "entry": "∑(O_O;)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "surprise round eyes"
   },
   "hands_up_greeting": {
     "keywords": [
@@ -2097,7 +2119,8 @@
       "cat mouth"
     ],
     "entry": "(⌒ω⌒)ﾉ",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "hands up greeting"
   },
   "winking_star": {
     "keywords": [
@@ -2108,7 +2131,8 @@
       "joke"
     ],
     "entry": "(^_<)〜☆",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "winking star"
   },
   "apologize": {
     "keywords": [
@@ -2117,7 +2141,8 @@
       "confess"
     ],
     "entry": "m(_ _;m)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "apologize"
   },
   "nosebleeding": {
     "keywords": [
@@ -2128,7 +2153,8 @@
       "beautiful"
     ],
     "entry": "(＾་།＾)",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "nosebleeding"
   },
   "writing_quietly": {
     "keywords": [
@@ -2138,7 +2164,8 @@
       "working hard"
     ],
     "entry": "__φ(．．)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "writing quietly"
   },
   "running_fast": {
     "keywords": [
@@ -2147,7 +2174,8 @@
       "right"
     ],
     "entry": "C= C= C= C=┌(｀ー´)┘",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "running fast"
   },
   "sleepy": {
     "keywords": [
@@ -2157,7 +2185,8 @@
       "slobber"
     ],
     "entry": "(￣ρ￣)..zzZZ",
-    "category": "animal"
+    "category": "animal",
+    "name": "sleepy"
   },
   "nya_cat": {
     "keywords": [
@@ -2166,7 +2195,8 @@
       "pet"
     ],
     "entry": "( =ω=)..nyaa",
-    "category": "animal"
+    "category": "animal",
+    "name": "nya cat"
   },
   "cute_polar_bear": {
     "keywords": [
@@ -2175,7 +2205,8 @@
       "smile bear"
     ],
     "entry": "ʕ •ᴥ• ʔ",
-    "category": "animal"
+    "category": "animal",
+    "name": "cute polar bear"
   },
   "normal_dog_ear_down": {
     "keywords": [
@@ -2183,7 +2214,8 @@
       "dog ear down"
     ],
     "entry": "∪･ω･∪",
-    "category": "animal"
+    "category": "animal",
+    "name": "normal dog ear down"
   },
   "happy_rabbit": {
     "keywords": [
@@ -2192,7 +2224,8 @@
       "joy"
     ],
     "entry": "／(≧ x ≦)＼",
-    "category": "animal"
+    "category": "animal",
+    "name": "happy rabbit"
   },
   "normal_pig": {
     "keywords": [
@@ -2201,7 +2234,8 @@
       "pork"
     ],
     "entry": "｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡",
-    "category": "animal"
+    "category": "animal",
+    "name": "normal pig"
   },
   "big_black_eyes_bird": {
     "keywords": [
@@ -2210,7 +2244,8 @@
       "fly"
     ],
     "entry": "(◉Θ◉)",
-    "category": "animal"
+    "category": "animal",
+    "name": "big black eyes bird"
   },
   "swimming_left_fish": {
     "keywords": [
@@ -2219,7 +2254,8 @@
       "water"
     ],
     "entry": "(°)#))<<",
-    "category": "animal"
+    "category": "animal",
+    "name": "swimming left fish"
   },
   "friends_together": {
     "keywords": [
@@ -2229,7 +2265,8 @@
       "party"
     ],
     "entry": "٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶",
-    "category": "people"
+    "category": "people",
+    "name": "friends together"
   },
   "friends_hand_in_hand": {
     "keywords": [
@@ -2241,7 +2278,8 @@
       "smile"
     ],
     "entry": "ヽ(≧◡≦)八(o^ ^o)ノ",
-    "category": "people"
+    "category": "people",
+    "name": "friends hand in hand"
   },
   "fight_enemies": {
     "keywords": [
@@ -2252,7 +2290,8 @@
       "unhappy"
     ],
     "entry": "(｀⌒*)O-(｀⌒´Q)",
-    "category": "people"
+    "category": "people",
+    "name": "fight enemies"
   },
   "shot_you": {
     "keywords": [
@@ -2263,7 +2302,8 @@
       "gun"
     ],
     "entry": "(ﾒ￣▽￣)︻┳═一",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "shot you"
   },
   "magic_flower": {
     "keywords": [
@@ -2272,7 +2312,8 @@
       "beautiful"
     ],
     "entry": "(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "magic flower"
   },
   "majic_star": {
     "keywords": [
@@ -2282,7 +2323,8 @@
       "biu-biu"
     ],
     "entry": "(ﾉ≧∀≦)ﾉ ‥…━━━★",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "majic star"
   },
   "food": {
     "keywords": [
@@ -2292,7 +2334,8 @@
       "salivate"
     ],
     "entry": "Fooooood…ԅ(¯﹃¯ԅ)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "food"
   },
   "let's_go": {
     "keywords": [
@@ -2301,7 +2344,8 @@
       "exciting"
     ],
     "entry": "─=≡Σ((( つ•̀ω•́)つLET’SGO!",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "let's go"
   },
   "cheering": {
     "keywords": [
@@ -2311,7 +2355,8 @@
       "hands up"
     ],
     "entry": "\\\\\\(۶•̀ᴗ•́)۶//／／",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "cheering"
   },
   "poking": {
     "keywords": [
@@ -2319,7 +2364,8 @@
       "heyhey"
     ],
     "entry": "（￢з￢）σ",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "poking"
   },
   "good_morning": {
     "keywords": [
@@ -2328,7 +2374,8 @@
       "greeting"
     ],
     "entry": "(*´0)ゞ*yawn* morning~",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "good morning"
   },
   "rise_and_shine": {
     "keywords": [
@@ -2338,7 +2385,8 @@
       "shine"
     ],
     "entry": "(*^｡^*)Rise (*^o^*)And ＼(*^0^*)／Shineｰ!!",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "rise and shine"
   },
   "good_night": {
     "keywords": [
@@ -2347,7 +2395,8 @@
       "dream"
     ],
     "entry": "Good(*´ -`)(´- `*)Night",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "good night"
   },
   "sleeping": {
     "keywords": [
@@ -2356,7 +2405,8 @@
       "sleepy"
     ],
     "entry": "(´-ω-)´_ _)´-ω-)´_ _)zZZ",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "sleeping"
   },
   "hello": {
     "keywords": [
@@ -2365,7 +2415,8 @@
       "hey"
     ],
     "entry": "(●っゝω・)っ～☆HELLO☆",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "hello"
   },
   "thank_you": {
     "keywords": [
@@ -2374,7 +2425,8 @@
       "gratitude"
     ],
     "entry": "*:;,｡･★Thanks(◎≧v≦)人(≧v≦●)Thanks☆･:.,;*",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "thank you"
   },
   "thank_kiss": {
     "keywords": [
@@ -2385,7 +2437,8 @@
       "gratitude"
     ],
     "entry": "Thank CHU♪(‘εﾟ人)*.+゜",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "thank kiss"
   },
   "thank_you_so_much": {
     "keywords": [
@@ -2394,7 +2447,8 @@
       "thanks a lot"
     ],
     "entry": "Thank you…(´人｀●)SOOOOO━━＼(´∀｀●)／━━MUCH!!",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "thank you so much"
   },
   "sniff": {
     "keywords": [
@@ -2406,7 +2460,8 @@
       "feeling down"
     ],
     "entry": "(´＿｀。) *sniff*",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "sniff"
   },
   "hug_for_you": {
     "keywords": [
@@ -2417,7 +2472,8 @@
       "love"
     ],
     "entry": "HUG FOR YOU~╰(*´︶`*)╯(´・ω・｀)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "hug for you"
   },
   "simple_dog": {
     "keywords": [
@@ -2427,7 +2483,8 @@
       "pet"
     ],
     "entry": "▼・ᴥ・▼",
-    "category": "animal"
+    "category": "animal",
+    "name": "simple dog"
   },
   "simple_cat": {
     "keywords": [
@@ -2439,7 +2496,8 @@
       "pet"
     ],
     "entry": "=^._.^= ∫",
-    "category": "animal"
+    "category": "animal",
+    "name": "simple cat"
   },
   "flower_cat": {
     "keywords": [
@@ -2451,7 +2509,8 @@
       "cute"
     ],
     "entry": " /ᐠ｡ꞈ｡ᐟ✿\\ ",
-    "category": "animal"
+    "category": "animal",
+    "name": "flower cat"
   },
   "table_flip_angry": {
     "keywords": [
@@ -2461,7 +2520,8 @@
       "shocked"
     ],
     "entry": "(┛✧Д✧))┛彡┻━┻",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "table flip angry"
   },
   "set_table": {
     "keywords": [
@@ -2472,7 +2532,8 @@
       "prepare"
     ],
     "entry": "┣ﾍ(^▽^ﾍ)Ξ(ﾟ▽ﾟ*)ﾉ┳━┳ There we go~♪",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "set table"
   },
   "thumbs_down": {
     "keywords": [
@@ -2481,7 +2542,8 @@
       "unhappy"
     ],
     "entry": "p(●｀□´●)q",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "thumbs down"
   },
   "blushing_flower_girl": {
     "keywords": [
@@ -2492,7 +2554,8 @@
       "cute"
     ],
     "entry": "(///∇///✿)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "blushing flower girl"
   },
   "merry_x'mas": {
     "keywords": [
@@ -2501,7 +2564,8 @@
       "christmas"
     ],
     "entry": "†+☆;:*:;☆。:.†Merry X’mas゜†.:。☆;:*:;☆+†",
-    "category": "holiday"
+    "category": "holiday",
+    "name": "merry x'mas"
   },
   "happy_Xmas": {
     "keywords": [
@@ -2511,7 +2575,8 @@
       "Xmas"
     ],
     "entry": "o＜(*’v`p)p☆+*:;;;:*+☆ Happy Xmas ☆+*:;;;:*+☆q(q’v`*)＞o",
-    "category": "holiday"
+    "category": "holiday",
+    "name": "happy Xmas"
   },
   "cute_flower_bear": {
     "keywords": [
@@ -2522,7 +2587,8 @@
       "flower"
     ],
     "entry": "(✿◕㉨◕)",
-    "category": "animal"
+    "category": "animal",
+    "name": "cute flower bear"
   },
   "love_letter": {
     "keywords": [
@@ -2532,7 +2598,8 @@
       "I love you"
     ],
     "entry": "I Love You..〆(・∀・＊)",
-    "category": "holiday"
+    "category": "holiday",
+    "name": "love letter"
   },
   "chocolate_valentine": {
     "keywords": [
@@ -2542,7 +2609,8 @@
       "I love you"
     ],
     "entry": "Chocolate!( ・∀・)っ■",
-    "category": "food"
+    "category": "food",
+    "name": "chocolate valentine"
   },
   "gross_creepy": {
     "keywords": [
@@ -2551,7 +2619,8 @@
       "wtf"
     ],
     "entry": "༼;´༎ຶ ۝ ༎ຶ༽",
-    "category": "emotion"
+    "category": "emotion",
+    "name": "gross creepy"
   },
   "awkward_cross_eyes": {
     "keywords": [
@@ -2561,7 +2630,8 @@
       "idiot"
     ],
     "entry": "(´◑ω◐`)",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "awkward cross eyes"
   },
   "jailed_smile": {
     "keywords": [
@@ -2569,7 +2639,8 @@
       "shut in"
     ],
     "entry": "||Φ|(|ﾟ|∀|ﾟ|)|Φ||",
-    "category": "behavior"
+    "category": "behavior",
+    "name": "jailed smile"
   },
   "crying_2": {
     "name": "Crying",
