@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "bump:patch": "npm version patch -m \"v%s\"",
+    "bump:minor": "npm version minor -m \"v%s\"",
     "postversion": "git push && git push --tags",
     "test": "ava"
   },
