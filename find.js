@@ -1,12 +1,16 @@
-const { Observable } = require('rxjs');
 const toPairs = require('ramda/src/toPairs');
 const pipe = require('ramda/src/pipe');
 const prop = require('ramda/src/prop');
 const anyPass = require('ramda/src/anyPass');
+const { Observable } = require('rxjs/Observable');
+require('rxjs/add/observable/from');
+require('rxjs/add/operator/filter');
+require('rxjs/add/operator/toArray');
+require('rxjs/add/operator/toPromise');
 
-const kaomoji = require('./index.js');
+const asciilib = require('./index.js');
 
-const lib = Observable.from(toPairs(kaomoji.lib));
+const lib = Observable.from(toPairs(asciilib.lib));
 
 const nameMatches = searchTerm => ([k]) => k.includes(searchTerm);
 

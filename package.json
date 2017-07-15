@@ -1,5 +1,5 @@
 {
-  "name": "kaomoji",
+  "name": "asciilib",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,7 @@
   },
   "dependencies": {
     "ramda": "^0.24.1",
-    "rxjs": "^5.4.2",
-    "yargs": "^8.0.2"
+    "rxjs": "^5.4.2"
   },
   "devDependencies": {
     "ava": "^0.21.0"
