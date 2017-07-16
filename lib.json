@@ -24,7 +24,7 @@
     "keywords": [
       "bear"
     ],
-    "category": "UNASSIGNED"
+    "category": "animal"
   },
   "chu": {
     "name": "chu",
@@ -32,7 +32,7 @@
     "keywords": [
       "chu"
     ],
-    "category": "UNASSIGNED"
+    "category": "emotion"
   },
   "tie_fighter": {
     "name": "Tie Fighter",
@@ -57,7 +57,7 @@
     "keywords": [
       "joy"
     ],
-    "category": "UNASSIGNED"
+    "category": "emotion"
   },
   "bautista": {
     "name": "Bautista",
@@ -65,7 +65,7 @@
     "keywords": [
       "bautista"
     ],
-    "category": "UNASSIGNED"
+    "category": "emotion"
   },
   "robot": {
     "name": "robot",
@@ -81,15 +81,7 @@
     "keywords": [
       "smooth"
     ],
-    "category": "UNASSIGNED"
-  },
-  "skrillex": {
-    "name": "skrillex",
-    "entry": "ϟƘƦƖןןΣx",
-    "keywords": [
-      "skrillex"
-    ],
-    "category": "UNASSIGNED"
+    "category": "emotion"
   },
   "flower_power": {
     "name": "flower power",
@@ -105,9 +97,11 @@
     "entry": "(╯°□°）╯︵ ┻━┻",
     "keywords": [
       "table",
-      "flip"
+      "flip",
+      "anger",
+      "angry"
     ],
-    "category": "UNASSIGNED"
+    "category": "behavior"
   },
   "pancakes?": {
     "name": "Pancakes?",
@@ -115,7 +109,7 @@
     "keywords": [
       "pancakes?"
     ],
-    "category": "UNASSIGNED"
+    "category": "food"
   },
   "unicorn": {
     "name": "unicorn",
@@ -208,6 +202,8 @@
     "entry": "┻━┻ ︵ ლ(⌒-⌒ლ)",
     "keywords": [
       "happily",
+      "happy",
+      "jolly",
       "flip",
       "tables"
     ],
@@ -293,6 +289,7 @@
     "entry": "(ಠ_ಠ)┌∩┐",
     "keywords": [
       "flip",
+      "angry",
       "off"
     ],
     "category": "UNASSIGNED"
@@ -661,7 +658,7 @@
       "flip",
       "table"
     ],
-    "category": "UNASSIGNED"
+    "category": "behavior"
   },
   "hoxom": {
     "name": "hoxom",
