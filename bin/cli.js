@@ -22,6 +22,7 @@ require('yargs')
       yargs.option('json', {
         describe: 'Output matches as JSON objects',
         default: false,
+        type: 'boolean', // This is important, it correctly interprets usage like find --json 'string'
       });
     },
     argv => {
