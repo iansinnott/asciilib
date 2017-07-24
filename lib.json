@@ -9,6 +9,16 @@
     ],
     "category": "UNASSIGNED"
   },
+  "code_eyes": {
+    "name": "Code Eyes",
+    "entry": "<  (  o  )  >       </  (  o  )  >",
+    "keywords": [
+      "code",
+      "eyes",
+      "face"
+    ],
+    "category": "people"
+  },
   "race_car": {
     "name": "Race Car",
     "entry": "\\ō͡≡o˞̶",
@@ -1284,6 +1294,7 @@
       "gimme",
       "give",
       "reach",
+      "take",
       "have"
     ],
     "category": "behavior"
