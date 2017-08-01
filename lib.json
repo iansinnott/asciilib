@@ -2511,6 +2511,17 @@
     "category": "behavior",
     "name": "table flip angry"
   },
+  "table_flip_angry2": {
+    "keywords": [
+      "table flip",
+      "angry",
+      "what?!",
+      "shocked"
+    ],
+    "entry": "(ノಠ益ಠ)ノ彡┻━┻",
+    "category": "behavior",
+    "name": "table flip angry"
+  },
   "set_table": {
     "keywords": [
       "table",
