@@ -1893,13 +1893,23 @@
     ],
     "category": "UNASSIGNED"
   },
+  "octoshrug": {
+    "keywords": [
+      "octopus",
+      "shrug",
+      "squid"
+    ],
+    "entry": "ʅ(°_°)ʃ",
+    "category": "animal",
+    "name": "Octoshrug"
+  },
   "shrug": {
     "name": "Shrug",
     "entry": "¯\\_(ツ)_/¯",
     "keywords": [
       "shrug"
     ],
-    "category": "UNASSIGNED"
+    "category": "emotion"
   },
   "exciting": {
     "keywords": [
