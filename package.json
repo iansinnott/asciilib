@@ -1,6 +1,6 @@
 {
   "name": "asciilib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": "./bin/cli.js",
   "author": "Ian Sinnott <ian@iansinnott.com> (https://www.iansinnott.com)",
